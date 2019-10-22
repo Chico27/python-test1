@@ -1,3 +1,4 @@
+# main.py
 import sub1
 
 testString = '\ntest'
