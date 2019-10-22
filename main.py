@@ -1,7 +1,6 @@
 import sub1
 
-
-testString = 'test'
+testString = '\ntest'
 
 print(sub1.sub1func(testString))
 
